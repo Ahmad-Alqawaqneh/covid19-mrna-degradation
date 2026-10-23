@@ -1,0 +1,13 @@
+# Data and large files are not tracked; download data from the Kaggle competition page.
+*.csv
+*.zip
+*.rar
+*.png
+*.jpg
+*.jpeg
+*.mp4
+*.pkl
+data/
+catboost_info/
+.ipynb_checkpoints/
+__pycache__/
